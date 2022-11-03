@@ -1,6 +1,6 @@
 ## Prepbytes - Elevation Academy Projects
 
-## Digital Clock
+## Todo-App-UI-Mobile
   - [Project view](https://prakasravichandran.github.io/Todo-App-UI-Mobile/)
 
 ## Project Screenshot
